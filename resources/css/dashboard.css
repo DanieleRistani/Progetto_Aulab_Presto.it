@@ -1,0 +1,28 @@
+@import url(./style.css);
+
+#sidebar {
+    position:fixed;
+	height:100vh!important;
+    width: 260px;
+	overflow:auto;
+	transition:all 0.3s ;
+    background: var(--whitecus);
+    box-shadow: 0 10px 30px -12px var(--main), 0 4px 25px 0px var(--acc), 0 8px 10px -5px var(--sec);
+}
+
+#sidebar ul li.drodown{
+	position:sticky;
+}
+
+#sidebar ul li a span{
+	text-transform:capitalize;
+	display:inline-block;
+}
+
+#sidebar ul li a i {
+    position: relative;
+    margin-right: 10px;
+    top: 5px;
+	color: #555555;
+    margin-left: 10px;
+}

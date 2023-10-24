@@ -1,0 +1,33 @@
+@import url('./style.css');
+
+.login-wrapper{
+    padding: 20px 0px;	
+	position: relative;	
+}
+
+.login_input {
+	border: 2px solid #D1D1D4;
+	background: none;
+	padding: 10px;
+	padding-left: 24px;
+	font-weight: 700;
+	width: 75%;
+	transition: .2s;
+}
+
+.input-group-text{
+    border: 2px solid #D1D1D4;
+    background-color: transparent;
+    border-right: none;
+}
+
+.login_input:active, .login_input:focus, .login_input:hover {
+	outline: none;
+	border-bottom-color: #6A679E;
+}
+
+.bg-custom-login-register{
+
+  min-height:70vh;
+  margin-top: 100px;
+}
