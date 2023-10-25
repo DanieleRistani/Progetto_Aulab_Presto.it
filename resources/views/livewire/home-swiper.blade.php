@@ -193,7 +193,7 @@
             @endif
             
             @if (!isset($article1))
-             <h3 class="display-1  text-center mx-auto"> Non ci sono articoli al momento</h2>
+             <h3 class="display-1  text-center mx-auto"> {{__('ui.noncisonoarticolialmomento')}}</h2>
             @endif
 
         </div>

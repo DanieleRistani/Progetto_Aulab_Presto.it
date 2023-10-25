@@ -76,6 +76,7 @@ return [
         'lavoraconnoitesto1' => 'By clicking below, you will send the request to become a reviewer for',
         'lavoraconnoitesto2' => "The reviewer's job is to verify that articles submitted by users are appropriate and comply with our policies.",
         'inviarichiestarevisore' => 'Send the request',
+        'noncisonoarticolialmomento' => 'There are no articles at the moment',
 
         // NAVBAR
         'homenav' => 'Home',

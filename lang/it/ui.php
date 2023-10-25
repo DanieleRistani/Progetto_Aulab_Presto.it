@@ -76,6 +76,7 @@ return [
     'lavoraconnoitesto1' => 'Cliccando qui sotto invierai la richiesta per poter diventare un revisore di',
     'lavoraconnoitesto2' => 'Il lavoro del revisore è quello di verificare che gli articoli inseriti dagli utenti siano adeguati e che rispettino le nostre politiche.',
     'inviarichiestarevisore' => 'Invia la richiesta',
+    'noncisonoarticolialmomento' => 'Non ci sono articoli al momento',
 
     // NAVBAR
     'homenav' => 'Home',

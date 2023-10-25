@@ -76,6 +76,7 @@ return [
     'lavoraconnoitesto1' => 'Durch Klicken unten senden Sie die Anfrage, ein Gutachter zu werden für',
     'lavoraconnoitesto2' => "Die Aufgabe des Gutachters besteht darin, zu überprüfen, ob die von Benutzern eingereichten Artikel angemessen sind und unseren Richtlinien entsprechen.",
     'inviarichiestarevisore' => 'Anfrage senden',
+    'noncisonoarticolialmomento' => 'Keine Artikel im Moment',
 
     // NAVBAR
     'homenav' => 'Startseite',
